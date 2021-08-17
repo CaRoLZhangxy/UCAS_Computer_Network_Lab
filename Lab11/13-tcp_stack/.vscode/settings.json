@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "rtable.h": "c",
+        "tcp.h": "c"
+    }
+}
